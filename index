@@ -12,7 +12,7 @@
 <iframe id="app"></iframe>
 
 <script>
-const EXEC = 'GANTI_DENGAN_LINK_EXEC_ANDA';
+const EXEC = 'https://script.google.com/macros/s/AKfycbw8MU-Jh9WydxKUYkrnukJqvMkckFjozWOVE1PnMBH3rvVoNrJm4Ko3FwD5j8EBXO8n/exec?admin=rt02rw07admin';
 const SEEN_KEY = 'pwa-info-seen';
 const SEEN_AFTER_MS = 12000;
 let latestIds = [], timer = null;
